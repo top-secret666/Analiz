@@ -109,6 +109,5 @@ To improve the model: download the full ClinVar RB1 set (~375 variants; the incl
 <div align="center">
 
 Python · TensorFlow · Biopython  
-[github.com/top-secret666/Analiz](https://github.com/top-secret666/Analiz)
 
 </div>
